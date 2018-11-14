@@ -1,0 +1,22 @@
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    border: 1px solid black
+}
+
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+img {
+    width: 250px;
+}
+
+.animal {
+    flex-basis: 25%;
+    display:flex;
+}
