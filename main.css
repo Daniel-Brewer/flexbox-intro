@@ -20,3 +20,15 @@ img {
     flex-basis: 25%;
     display:flex;
 }
+
+.contain {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: flex-start;
+}
+
+.pet {
+    display: flex;
+    flex-basis: 50%;
+}
+
